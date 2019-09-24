@@ -42,3 +42,4 @@ def bfs(graph, start):
 
 if __name__ == '__main__':
     print(bfs(G, 'A'))
+

@@ -9,6 +9,7 @@
 ### All algorithms implemented in Python (for education)
 
 These implementations are for learning purposes. They may be less efficient than the implementations in the Python standard library.
+这些实现学习目的。他们可能比实现更高效的Python标准库。
 
 ## Owners
 
